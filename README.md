@@ -1,3 +1,9 @@
+# Overviews
+- Use the Express Application Generator tool to create a skeleton website and application.
+- Start and stop the Node web server.
+- Use a database to store your application's data.
+- Create routes for requesting different information, and templates ("views") to render the data as HTML to be displayed in the browser.
+
 # Getting started
 To get the Node server running locally:
 - Clone this repo
